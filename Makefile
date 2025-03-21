@@ -25,7 +25,7 @@ build_o:
 
 #ld je GNU linker
 #-m elf_i386 naredi 32bit ELF format
-#-lc linka
+#-lc linka vse skup
 build: 
 	make build_i
 	make build_s
